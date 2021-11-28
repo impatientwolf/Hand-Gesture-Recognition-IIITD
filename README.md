@@ -1,4 +1,4 @@
-# ML-Project-IIITD
+# Hand-Gesture-Recognition-IIITD
 
 Hand Gesture Recognition
 
